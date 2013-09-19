@@ -1,0 +1,5 @@
+name: forkloop's blog
+markdown: redcarpet
+pygments: true
+
+permalink: /:year/:month/:day/:title.html
